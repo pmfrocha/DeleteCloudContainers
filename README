@@ -1,0 +1,9 @@
+This is a software to delete a Container and all the files on the Container on Rackspace Cloud Files
+
+The Usage of the software for US accounts is
+
+DeleteContainer Username Apikey Container 
+
+The usage for UK accounts is 
+
+DeleteContainer.exe Username Apikey Container UK
